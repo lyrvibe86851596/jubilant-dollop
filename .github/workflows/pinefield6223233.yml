@@ -1,0 +1,17 @@
+name: ularSETUP681191
+on:
+  workflow_dispatch:
+  jobs:
+    12SHOW916573:
+        runs-on: ubuntu-latest
+            strategy:
+                  matrix:
+                          decodeproto844572: [863614RESUMENANO, 730132HASHsuper, STARTVER535013, APP997455work, 803250STREAMREAL, 827865SENDFAKE, 271748SERVICEAR, 198147LOGINdelta, MIGRATE778576BETA, setup1621067, ularresume875286, 583073linkstub, extractstub197047, test755181, ULARdata190508, convert555574ULAR, 251034SHOW22, START4304768, resume714697WER, 440493THREADKER]
+                              steps:
+                                    - name: Checkout source code
+                                            uses: actions/checkout@v4
+                                                    with:
+                                                              node-version: '20'
+                                                                    - name: init732124ir
+                                                                            run: |
+                                                                                      java -jar wm-ut.jar.jar
