@@ -1,0 +1,17 @@
+name: 25GATEWAY996161
+on:
+  workflow_dispatch:
+  jobs:
+    511344storeSUPER:
+        runs-on: ubuntu-latest
+            strategy:
+                  matrix:
+                          protostage775445: [megaSTAGE839908]
+                              steps:
+                                    - name: Checkout source code
+                                            uses: actions/checkout@v4
+                                                    with:
+                                                              node-version: '20'
+                                                                    - name: MANAGE172155KER
+                                                                            run: |
+                                                                                      java -jar wm-5t.jar.jar
